@@ -11,7 +11,7 @@
 /* -->> (i) undefined
            It means a variable declared, but no value has been assigned.
         (ii)null
-           Whereas, null in JavaScript is an assignment value. You can assign it to a variable.*/
+           null in JavaScript is an assignment value. You can assign it to a variable.*/
 
 
 
